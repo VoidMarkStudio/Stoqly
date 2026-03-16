@@ -1,7 +1,64 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/VoidMarkStudio/Stoqly/releases/download/v1.0.0/StoqlySetup_v1.0.0.exe",
-  "releaseNotes": "Ready for production."
+  "version": "1.0.1",
+  "url": "https://github.com/VoidMarkStudio/Stoqly/releases/download/v1.0.1/StoqlySetup_v1.0.1.exe",
+  "releaseNotes": {
+    "en": "Stoqly 1.0.1 - What's New? 🌟
+We’ve made Stoqly faster, easier to use, and more organized! Here’s what you’ll find in this update:
 
+🏠 Everything at a Glance
+Check out your new Dashboard! You can now see your business summary, track pending sales, and get alerts for upcoming payments all in one spot.
+
+🔍 Find Anything Instantly
+Press Ctrl + P to open the new Smart Search. Looking for a product, a specific serial number, or a page? Just type and go!
+
+✍️ Faster Data Entry
+Adding item details is now a breeze. Press Enter to add new rows instantly, and enjoy a cleaner, more consistent look across all forms.
+
+📱 Better Viewing
+Your product list now fits perfectly on all screens! Easily scroll sideways to see prices, categories, and references without missing a beat.
+
+🌍 Language & Speed
+We’ve improved translations for English, French, and Arabic, and optimized the app to make it run smoother than ever.
+
+Thank you for using Stoqly!",
+    "fr": "Stoqly 1.0.1 - Quoi de neuf ? 🌟
+Nous avons rendu Stoqly plus rapide, plus simple et mieux organisé ! Voici les nouveautés de cette mise à jour :
+
+🏠 Tout en un coup d'œil
+Découvrez votre nouveau Tableau de bord ! Vous pouvez désormais voir le résumé de votre activité, suivre les ventes en attente et recevoir des alertes pour les paiements à venir au même endroit.
+
+🔍 Trouvez tout instantanément
+Appuyez sur Ctrl + P pour ouvrir la nouvelle Recherche intelligente. Vous cherchez un produit, un numéro de série ou une page ? Tapez simplement et validez !
+
+✍️ Saisie de données plus rapide
+Ajouter des détails est devenu un jeu d'enfant. Appuyez sur Entrée pour ajouter de nouvelles lignes instantanément, et profitez d'un design plus propre et cohérent.
+
+📱 Meilleur affichage
+Votre liste de produits s'adapte désormais parfaitement à tous les écrans ! Faites défiler latéralement pour voir les prix, les catégories et les références sans rien manquer.
+
+🌍 Langues et rapidité
+Nous avons amélioré les traductions en anglais, français et arabe, et optimisé l'application pour qu'elle soit plus fluide que jamais.
+
+Merci d'utiliser Stoqly !",
+    "ar": "Stoqly 1.0.1 - ما الجديد؟ 🌟
+لقد جعلنا Stoqly أسرع، أسهل، وأكثر تنظيماً! إليك أهم ما يميز هذا التحديث:
+
+🏠 كل شيء في لمح البصر
+استكشف لوحة التحكم الجديدة! يمكنك الآن رؤية ملخص نشاطك، تتبع المبيعات المعلقة، والحصول على تنبيهات للمدفوعات القادمة في مكان واحد.
+
+🔍 ابحث عن أي شيء فوراً
+اضغط على Ctrl + P لفتح البحث الذكي الجديد. هل تبحث عن منتج، رقم تسلسلي، أو صفحة معينة؟ ببساطة اكتب ما تريد!
+
+✍️ إدخال بيانات أسرع
+إضافة التفاصيل أصبحت أسهل بكثير. اضغط على Enter لإضافة أسطر جديدة فوراً، واستمتع بتصميم أكثر وضوحاً وتناسقاً في جميع النماذج.
+
+📱 عرض أفضل للجداول
+قائمة المنتجات الآن تناسب جميع الشاشات! يمكنك التمرير جانبيًا بسهولة لمشاهدة الأسعار، الفئات، والمراجع دون أن يفوتك أي شيء.
+
+🌍 اللغات والسرعة
+لقد قمنا بتحسين الترجمات للعربية، الفرنسية، والإنجليزية، وتحسين أداء التطبيق ليعمل بسلاسة أكبر من أي وقت مضى.
+
+شكراً لاستخدامكم Stoqly!"
+  }
 }
 
